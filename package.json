@@ -1,0 +1,27 @@
+{
+  "name": "dex",
+  "version": "1.0.0",
+  "description": "<p>20211123memo</p>",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brahmavihara/dex.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brahmavihara/dex/issues"
+  },
+  "homepage": "https://github.com/brahmavihara/dex#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.3.3",
+    "@openzeppelin/test-helpers": "^0.5.15"
+  }
+}
